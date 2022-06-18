@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @CoyoteHawk, but you can call me Cloth or ClothBalls too.
+- 👋 Hi, I’m @CoyoteHawk, but you can call me Sela too.
 
 
-Okay that's it
+I'm learning to program, and it's going okay so far.
+
+Currently able to write some python and a bit of java.
